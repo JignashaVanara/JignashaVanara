@@ -1,5 +1,10 @@
-### Hi there 👋
-
+<h1 align="center">👋 Hi there, I'm Jignasha </h1>
+<hr>
+<h2 align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Page!)](https://git.io/typing-svg)
+</h2>
+<hr>
+<p align="center><strong>I'm a passionate developer who loves to code</strong><</p>
 <!--
 **JignashaVanara/JignashaVanara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
