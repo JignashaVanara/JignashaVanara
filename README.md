@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi there, I'm Jignasha </h1>
 
-<h2 align="center">
+<h2 align="center" style="padding-left:60px">
 
-&nbsp;&nbsp;&nbsp;&nbsp; [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Page!)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Page!)](https://git.io/typing-svg)
 
 </h2>
 
