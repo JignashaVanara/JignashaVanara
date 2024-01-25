@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Jignasha </h1>
 
-<h2 align="center" style="padding-left:60px">
+<h2 align="center" style="padding-left:90px">
 
  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Page!)](https://git.io/typing-svg)
 
